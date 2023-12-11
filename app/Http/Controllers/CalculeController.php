@@ -12,4 +12,5 @@ class CalculeController extends Controller
         $result = $firstNumber + $secondNumber;
         return view('welcome');
     }
+    
 }
